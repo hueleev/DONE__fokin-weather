@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "react-native project",
+    "githubUrl": "https://github.com/hueleev/fokin-weather"
   }
 }
