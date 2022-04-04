@@ -1,4 +1,4 @@
-# Fokin Weather
+# [Fokin Weather](https://nomadcoders.co/react-native-for-beginners/lobby)
 Learning React Native by building a Foking Weather App
 ## install
 ```bash
